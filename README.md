@@ -1,2 +1,2 @@
-# git-repo-demo
-Git tutorial
+# Git-repo-demo
+Git tutorial.
